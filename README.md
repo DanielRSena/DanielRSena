@@ -1,5 +1,5 @@
 ## Saluton e bonvenon! Eu sou Daniel Ramos Sena
-Sou um nerd nato, e adoro fazer ferramentas que ajudem as pessoas, especialmente relacionados à matemática!
+Sou um nerd nato, e adoro fazer ferramentas que ajudem as pessoas, especialmente relacionadas à matemática!
 
 ### Frequência de linguagens
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRSena&layout=compact&theme=dark)
