@@ -22,7 +22,7 @@ Sou um nerd nato, e adoro fazer ferramentas que ajudem as pessoas, especialmente
 ### Meus principais repósitórios
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielRSena&repo=Projetos-da-faculdade&theme=dark)](https://github.com/DanielRSena/Projetos-da-faculdade)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielRSena&repo=AjudaMath&theme=dark)](https://github.com/DAniRSena/AjudaMath)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielRSena&repo=AjudaMath&theme=dark)](https://github.com/DanielRSena/AjudaMath)
 
 
 ### Frequência de linguagens
