@@ -23,7 +23,7 @@ Sou um nerd por inteiro e adoro fazer ferramentas que ajudem as pessoas, especia
 
 ### Meus principais repósitórios
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielRSena&repo=Eventos-Bootcamp&theme=dark)](https://github.com/DanielRSena/Projetos-da-faculdade)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielRSena&repo=Eventos-Bootcamp&theme=dark)](https://github.com/DanielRSena/Eventos-Bootcamp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DanielRSena&repo=AjudaMath&theme=dark)](https://github.com/DanielRSena/AjudaMath)
 
 
